@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\calidadespe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|solutionrelative:calidadespe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A345EB-574D-4E60-BB70-8F8827A47270}|Data\\Data.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\data\\migrations\\20240906055200_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A345EB-574D-4E60-BB70-8F8827A47270}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240906055200_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\calidadespe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|solutionrelative:calidadespe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483C34FE-9FD9-428A-A123-98FD8B3BCDE8}|Services\\Services.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483C34FE-9FD9-428A-A123-98FD8B3BCDE8}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\calidadespe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|solutionrelative:calidadespe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\calidadespe\\calidadespe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6E25C805-C21F-4AA0-A8C9-ED03F6285816}|CalidadEspe\\CalidadEspe.csproj|solutionrelative:calidadespe\\calidadespe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7A5EC2-3753-4250-8508-5B658D22D44D}|Interface\\Interface.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\interface\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7A5EC2-3753-4250-8508-5B658D22D44D}|Interface\\Interface.csproj|solutionrelative:interface\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7A5EC2-3753-4250-8508-5B658D22D44D}|Interface\\Interface.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\interface\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7A5EC2-3753-4250-8508-5B658D22D44D}|Interface\\Interface.csproj|solutionrelative:interface\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB0AC5B-F699-4D1F-922F-51CF1E08EBF0}|Repository\\Repository.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB0AC5B-F699-4D1F-922F-51CF1E08EBF0}|Repository\\Repository.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A345EB-574D-4E60-BB70-8F8827A47270}|Data\\Data.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A345EB-574D-4E60-BB70-8F8827A47270}|Data\\Data.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CE7843-14D1-49F3-84DB-7DBEAAC1F850}|Entity\\Entity.csproj|e:\\universidad\\especializacion 2\\calidad\\apitaller\\calidadespe\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CE7843-14D1-49F3-84DB-7DBEAAC1F850}|Entity\\Entity.csproj|solutionrelative:entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240906055200_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Data\\Migrations\\20240906055200_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240906055200_InitialCreate.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Data\\Migrations\\20240906055200_InitialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240906055200_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:52:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalidadEspe",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\CalidadEspe.csproj",
+              "RelativeDocumentMoniker": "CalidadEspe\\CalidadEspe.csproj",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\CalidadEspe.csproj",
+              "RelativeToolTip": "CalidadEspe\\CalidadEspe.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T05:30:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CalidadEspe\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CalidadEspe\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:21:38.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\appsettings.json",
+              "RelativeDocumentMoniker": "CalidadEspe\\appsettings.json",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\appsettings.json",
+              "RelativeToolTip": "CalidadEspe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T04:44:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:41:36.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Interface\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interface\\IService\\IUserService.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Interface\\IService\\IUserService.cs",
+              "RelativeToolTip": "Interface\\IService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:40:35.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:35:36.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Interface\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IRepository\\IUserRepository.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Interface\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:33:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:29:41.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\User.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\Entity\\User.cs",
+              "RelativeToolTip": "Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:25:18.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\Program.cs",
+              "RelativeDocumentMoniker": "CalidadEspe\\Program.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\ApiTaller\\CalidadEspe\\CalidadEspe\\Program.cs",
+              "RelativeToolTip": "CalidadEspe\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:13:00.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

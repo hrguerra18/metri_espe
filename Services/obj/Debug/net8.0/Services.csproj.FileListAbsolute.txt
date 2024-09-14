@@ -1,0 +1,17 @@
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\bin\Debug\net8.0\Services.deps.json
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\bin\Debug\net8.0\Services.dll
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\bin\Debug\net8.0\Services.pdb
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\bin\Debug\net8.0\Entity.dll
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\bin\Debug\net8.0\Interface.dll
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\bin\Debug\net8.0\Interface.pdb
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\bin\Debug\net8.0\Entity.pdb
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.dll
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\refint\Services.dll
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\Services.pdb
+E:\Universidad\Especializacion 2\Calidad\ApiTaller\CalidadEspe\Services\obj\Debug\net8.0\ref\Services.dll
